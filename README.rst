@@ -187,3 +187,7 @@ License
 =======
 
 Archiso is licensed under the terms of the **GPL-3.0-or-later** (see `LICENSE <LICENSE>`_).
+
+
+
+WILL BE USED LATER TO CREATE KettaOS
